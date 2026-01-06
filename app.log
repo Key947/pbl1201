@@ -1,0 +1,14 @@
+2026-01-06 12:05:29,060 - INFO - 127.0.0.1 - Generated secure URL token
+2026-01-06 12:06:38,251 - INFO - 127.0.0.1 - User logged in with session 182b1d1b-bbd5-45a3-8c08-900c39bc883f
+2026-01-06 12:06:43,452 - INFO - 127.0.0.1 - User logged in with session 6d373473-173f-41ee-ba42-9d480370468c
+2026-01-06 12:06:46,744 - INFO - 127.0.0.1 - User logged in with session 3b94da79-75a1-4ef1-b496-991afaf835d9
+2026-01-06 12:07:07,172 - INFO - 127.0.0.1 - Dashboard accessed by user 1
+2026-01-06 12:08:38,390 - INFO - 127.0.0.1 - User logged out
+2026-01-06 12:08:41,715 - INFO - 127.0.0.1 - User logged out
+2026-01-06 12:09:50,584 - INFO - 127.0.0.1 - Generated secure URL token
+2026-01-06 12:10:33,298 - INFO - 127.0.0.1 - Valid token access for user 1
+2026-01-06 12:10:46,946 - INFO - 127.0.0.1 - Unauthorized dashboard access
+2026-01-06 12:11:01,907 - INFO - 127.0.0.1 - User logged in with session 127621b9-af0b-4cc7-a4f9-7d59fdfa41bf
+2026-01-06 12:11:18,662 - INFO - 127.0.0.1 - Dashboard accessed by user 1
+2026-01-06 12:11:46,101 - INFO - 127.0.0.1 - User logged out
+2026-01-06 12:11:47,975 - INFO - 127.0.0.1 - User logged out
